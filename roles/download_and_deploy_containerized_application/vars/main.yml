@@ -1,0 +1,4 @@
+---
+# vars file for download_and_deploy_containerized_application/
+CI_CONTAINER_IMAGE: ""
+CI_COMMIT_REF_NAME: ""
